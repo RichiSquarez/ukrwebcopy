@@ -74,6 +74,13 @@ body{
     color: white;
     background-color: #0f16297e;
     height: 10dvh;
+    container: navbar / inline-size;
+}
+
+.mobile-logo,
+.mobile-cart,
+.navbar-mobile-menu{
+    display: none;
 }
 
 .navbar-logo{
